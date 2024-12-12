@@ -28,6 +28,15 @@ This project implements a smart parking system using a YOLO model to detect cars
 
 The Smart Parking System leverages object detection to identify cars and determine their position within predefined parking lot coordinates. By integrating bounding box predictions with polygon testing, the system tracks parking slot availability in real time.
 
+<div align="center">
+
+  ![Screenshot 2024-12-12 at 11 28 21 PM](https://github.com/user-attachments/assets/64896cc7-eb5d-489e-875f-fb77d70b1e61)
+
+  ### Watch the demo video:
+  [![Demo Video](https://img.youtube.com/vi/PvZIFtBQ4ho/0.jpg)](https://www.youtube.com/watch?v=PvZIFtBQ4ho&t=303s)
+
+</div>
+
 ---
 
 ## Features
@@ -83,11 +92,6 @@ The confusion matrix and performance metrics, including precision-recall curves 
 2. **Package Compatibility Issues**:
    - Solution: Adjusted Python and package versions to meet Jetson Nano's CUDA requirements.
 
----
+## Contact
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/smart-parking-system.git
-   cd smart-parking-system
+For any questions or issues, please contact ameer.alwadiya@outlook.com.
