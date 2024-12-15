@@ -29,6 +29,11 @@ This project implements a smart parking system using a YOLO model to detect cars
 The Smart Parking System leverages object detection to identify cars and determine their position within predefined parking lot coordinates. By integrating bounding box predictions with polygon testing, the system tracks parking slot availability in real time.
 
 <div align="center">
+  ![Screenshot 2024-12-15 at 6 08 47 PM](https://github.com/user-attachments/assets/7bdf9115-7261-445b-a72c-281487ad5019)
+</div>
+
+
+<div align="center">
 
   ![Screenshot 2024-12-12 at 11 28 21 PM](https://github.com/user-attachments/assets/64896cc7-eb5d-489e-875f-fb77d70b1e61)
 
