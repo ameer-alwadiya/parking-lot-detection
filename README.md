@@ -20,7 +20,6 @@ This project implements a smart parking system using a YOLO model to detect cars
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
-- [License](#license)
 
 ---
 
